@@ -104,7 +104,9 @@ mouse_click_effect: false
 
 
 
-# 设置图像'/assets/img/avatar.jpg'
+
+
+# 设置的图像'/assets/img/avatar.jpg'
 avatar: '/assets/img/avatar.jpg'
 
 # SEO `og:image` 元标记中使用的全站社交预览图像的 URL。可以在帖子的 Front Matter 中使用 `page.image` 覆盖。
